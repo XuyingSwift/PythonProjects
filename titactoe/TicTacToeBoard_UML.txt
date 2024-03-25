@@ -1,0 +1,12 @@
+@startuml
+class TicTacToeBoard {
+    getGameBoard()
+    printBoard()
+    isMoveValid()
+    submitMove()
+    isWinner()
+    isCat()
+        boardSize
+    __init__()
+}
+@enduml

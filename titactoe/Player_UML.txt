@@ -1,0 +1,11 @@
+@startuml
+class Player {
+    getMarker()
+    getIsHuman()
+    getHumanMove()
+    generateComputerMove()
+    getPlayerMove()
+        isHuman
+    __init__()
+}
+@enduml
